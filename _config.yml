@@ -2,6 +2,9 @@ remote_theme: riggraz/no-style-please
 plugins:
 - jekyll-remote-theme
 
+theme_config:
+  appearance: "light"
+
 title: Monkey Projects
 description: Random Ideas
 
