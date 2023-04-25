@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Monkey Projects
 layout: page
 ---
 
