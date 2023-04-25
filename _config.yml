@@ -1,4 +1,4 @@
-theme: no-style-please
+theme: minima
 plugins:
 - jekyll-remote-theme
 
