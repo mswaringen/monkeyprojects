@@ -1,9 +1,9 @@
-remote_theme: daviddarnes/alembic@main
+theme: no-style-please
 plugins:
 - jekyll-remote-theme
 
-title: Jeremy Howard
-description: Some basic examples of client interfaces to a computer vision API
+title: Mark Swaringen
+description: Random Projects
 
 author:
-  name: Jeremy Howard
+  name: Mark Swaringen
