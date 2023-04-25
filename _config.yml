@@ -1,4 +1,4 @@
-remote_theme: alertbox/zebra-snooze
+remote_theme:  riggraz/no-style-please
 plugins:
 - jekyll-remote-theme
 
