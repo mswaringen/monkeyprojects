@@ -1,9 +1,9 @@
-remote_theme: zebra-snooze
+remote_theme: alertbox/zebra-snooze
 plugins:
 - jekyll-remote-theme
 
-title: Mark Swaringen
-description: Random Projects
+title: Monkey Projects
+description: Random Ideas
 
 author:
   name: Mark Swaringen
